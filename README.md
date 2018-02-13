@@ -1,2 +1,3 @@
+## Computer Vision
 # FacialRecognition
-core codes for facial recognition(c++)
+core codes for facial recognition(OpenCV, C++)
